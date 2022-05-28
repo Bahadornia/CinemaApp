@@ -27,4 +27,4 @@ D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Me
 D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\MySqlConnector.dll
 D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Projects\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.csproj.CopyComplete
-D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\ref\CinemaApp.dll
+D:\projects\CinemaApp\CinemaApp\obj\Debug\net6.0\refint\CinemaApp.dll
