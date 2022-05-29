@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\CinemaApp\\CinemaApp\\CinemaApp.csproj": {}
+    "C:\\Users\\b.bahadornia\\Source\\Repos\\CinemaApp\\CinemaApp\\CinemaApp.csproj": {}
   },
   "projects": {
-    "D:\\projects\\CinemaApp\\CinemaApp\\CinemaApp.csproj": {
+    "C:\\Users\\b.bahadornia\\Source\\Repos\\CinemaApp\\CinemaApp\\CinemaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\CinemaApp\\CinemaApp\\CinemaApp.csproj",
+        "projectUniqueName": "C:\\Users\\b.bahadornia\\Source\\Repos\\CinemaApp\\CinemaApp\\CinemaApp.csproj",
         "projectName": "CinemaApp",
-        "projectPath": "D:\\projects\\CinemaApp\\CinemaApp\\CinemaApp.csproj",
-        "packagesPath": "C:\\Users\\bahadornia\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\CinemaApp\\CinemaApp\\obj\\",
+        "projectPath": "C:\\Users\\b.bahadornia\\Source\\Repos\\CinemaApp\\CinemaApp\\CinemaApp.csproj",
+        "packagesPath": "C:\\Users\\b.bahadornia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.bahadornia\\Source\\Repos\\CinemaApp\\CinemaApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bahadornia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\b.bahadornia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +43,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AspNetCore.Authentication.Plugin": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.5, )"
@@ -73,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
