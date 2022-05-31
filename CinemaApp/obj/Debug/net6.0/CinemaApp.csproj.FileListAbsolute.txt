@@ -27,7 +27,6 @@ D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Me
 D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\MySqlConnector.dll
 D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Projects\CinemaApp\CinemaApp\obj\Debug\net6.0\CinemaApp.csproj.CopyComplete
-D:\projects\CinemaApp\CinemaApp\obj\Debug\net6.0\refint\CinemaApp.dll
 C:\Users\b.bahadornia\Source\Repos\CinemaApp\CinemaApp\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\b.bahadornia\Source\Repos\CinemaApp\CinemaApp\bin\Debug\net6.0\appsettings.json
 C:\Users\b.bahadornia\Source\Repos\CinemaApp\CinemaApp\bin\Debug\net6.0\CinemaApp.exe
@@ -66,3 +65,12 @@ C:\Users\b.bahadornia\Source\Repos\CinemaApp\CinemaApp\bin\Debug\net6.0\System.I
 C:\Users\b.bahadornia\Source\Repos\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\b.bahadornia\Source\Repos\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\b.bahadornia\Source\Repos\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\ref\CinemaApp.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\AuthenticationPlugin.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\CinemaApp\CinemaApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7fLQdCg4CwRvGVS4xEpmM7c6K8zRIMm0ccF+SknlH5NNpJ+1SshOZqSybIqnAk4/bFbe6JmwABeLCQKsQlcGdg==",
+  "dgSpecHash": "5ykg27JrCN1RlGSJAPxuO2D90ERuUXZYYPkT3o2vvJMkXs1cQpFFaEUn+isNpgrZW0uag9N7IPUqNcztBsSlkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\b.bahadornia\\Source\\Repos\\CinemaApp\\CinemaApp\\CinemaApp.csproj",
+  "projectFilePath": "D:\\Projects\\CinemaApp\\CinemaApp\\CinemaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b.bahadornia\\.nuget\\packages\\aspnetcore.authentication.plugin\\1.0.1\\aspnetcore.authentication.plugin.1.0.1.nupkg.sha512",
     "C:\\Users\\b.bahadornia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
